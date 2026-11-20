@@ -1,6 +1,6 @@
 ---
 name: cv-guidelines
-description: Build, audit and tailor ATS-friendly CVs and resumes. Use when creating or reviewing a CV/resume, checking ATS compatibility, matching keywords to a job description, writing quantified bullets, formatting sections, or adapting a CV for tech, executive, academic or career-change profiles. Trigger on /cv-guidelines, "CV", "currículo", "resume", "ATS".
+description: Build, audit and tailor ATS-friendly CVs and resumes. Use when creating or reviewing a CV/resume, checking ATS compatibility, matching keywords to a job description, writing quantified bullets, formatting sections, or adapting a CV for tech, executive, academic or career-change profiles. Trigger on /cv-guidelines, "CV", "resume", "ATS".
 ---
 
 # /cv-guidelines

@@ -13,3 +13,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - `README.md` with install and usage instructions.
 - `AGENTS.md` and `CLAUDE.md` for AI agents that edit this repo.
 - MIT `LICENSE`.
+
+### Changed
+
+- Removed the Portuguese trigger word from the `cv-guidelines` description so the repo is EN-US only.
