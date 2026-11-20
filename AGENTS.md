@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo packages the `cv-guidelines` agent skill, plus the `prs-fixes` and `prs-reviews` PR helper skills. Agent skill for building, auditing and tailoring ATS-friendly CVs and resumes.
+This repo packages the `cv-guidelines` agent skill. Agent skill for building, auditing and tailoring ATS-friendly CVs and resumes.
 
 ## Layout
 
